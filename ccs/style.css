@@ -1,0 +1,19 @@
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+
+
+
+.destino-card {
+    width: 10rem;
+    height: 5rem;
+    flex-direction: column;
+    margin: 1rem;
+
+    background-color: rgb(192, 170, 213);
+
+}
